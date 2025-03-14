@@ -6,7 +6,7 @@ The project involves the following steps:
 
 Data Cleaning: Removing stopwords, common words, and special characters.
 
-Text Preprocessing: Tokenization, lemmatization, and part-of-speech tagging.
+Text Preprocessing: Tokenization, lemmatization, and part-of-speech tagging for processing positive and negative reviews in the form of comments.
 
 Feature Extraction: Identifying and extracting relevant features from the cleaned text data.
 
